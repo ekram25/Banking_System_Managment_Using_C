@@ -1,0 +1,11 @@
+
+Name : Ekramuddin
+Account no. : 12345678
+
+Rs200 had been deposited to your account 
+Date/Time of transaction : Sun Mar 19 20:35:44 2023
+
+
+Rs300 had been withdrawn from your account 
+Date/Time of transaction : Sun Mar 19 20:36:09 2023
+
